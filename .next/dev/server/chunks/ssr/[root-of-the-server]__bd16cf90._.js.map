@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Downloads/portfolio/app/about/sections/AboutSection.tsx"],"sourcesContent":["\r\n\r\nexport default function AboutSection () {\r\n    return (\r\n        <>\r\n            <h1 className=\"text-4xl md:text-6xl py-24 text-center font-semibold\">Coming Soon</h1>\r\n        </>\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACpB,qBACI;kBACI,cAAA,8OAAC;YAAG,WAAU;sBAAuD;;;;;;;AAGjF"}},
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Downloads/portfolio/app/about/page.tsx"],"sourcesContent":["import AboutSection from './sections/AboutSection';\r\n\r\nexport default function AboutPage () {\r\n    return (\r\n        <>\r\n            <AboutSection />\r\n        </>\r\n    )\r\n}"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACpB,qBACI;kBACI,cAAA,8OAAC,oJAAY;;;;;;AAGzB"}}]
+}

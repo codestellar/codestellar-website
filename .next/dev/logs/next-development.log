@@ -1,0 +1,241 @@
+[00:00:05.242] Server  LOG     ✓ Ready in 4s
+[00:00:19.019] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.639] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <a> a 
+
+  ...
+    <SegmentViewNode type="layout" pagePath="layout.tsx">
+      <SegmentTrieNode>
+      <link>
+      <script>
+      <script>
+      <script>
+      <RootLayout>
+        <html lang="en" className="dark">
+          <head>
+          <body className="geist_a715...">
+            <CursorClickEffect>
+            <Header>
+              <Navbar>
+                <motion.div ref={{current:null}} className="sticky ins...">
+                  <div className="sticky ins..." style={{}} ref={function useMotionRef.useCallback}>
+                    <NavBody visible={false}>
+                      <motion.div animate={{...}} transition={{type:"spring", ...}} className="relative z...">
+                        <div className="relative z..." style={{}} ref={function useMotionRef.useCallback}>
+                          <LinkComponent href="/" className="z-50">
+>                           <a
+>                             className="z-50"
+>                             ref={function}
+>                             onClick={function onClick}
+>                             onMouseEnter={function onMouseEnter}
+>                             onTouchStart={function onTouchStart}
+>                             href="/"
+>                           >
+                              <NavbarLogo>
+                                <LinkComponent href="/" className="flex items..." onClick={undefined}>
+>                                 <a
+>                                   className="flex items-center cursor-pointer"
+>                                   ref={function}
+>                                   onClick={function onClick}
+>                                   onMouseEnter={function onMouseEnter}
+>                                   onTouchStart={function onTouchStart}
+>                                   href="/"
+>                                 >
+                          ...
+                    ...
+            ...
+
+[00:00:19.639] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. a <a>
+[00:00:19.639] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+[00:00:19.639] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:00:33.087] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:33.755] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <a> a 
+
+  ...
+    <SegmentViewNode type="layout" pagePath="layout.tsx">
+      <SegmentTrieNode>
+      <link>
+      <script>
+      <script>
+      <script>
+      <RootLayout>
+        <html lang="en" className="dark">
+          <head>
+          <body className="geist_a715...">
+            <CursorClickEffect>
+            <Header>
+              <Navbar>
+                <motion.div ref={{current:null}} className="sticky ins...">
+                  <div className="sticky ins..." style={{}} ref={function useMotionRef.useCallback}>
+                    <NavBody visible={false}>
+                      <motion.div animate={{...}} transition={{type:"spring", ...}} className="relative z...">
+                        <div className="relative z..." style={{}} ref={function useMotionRef.useCallback}>
+                          <LinkComponent href="/" className="z-50">
+>                           <a
+>                             className="z-50"
+>                             ref={function}
+>                             onClick={function onClick}
+>                             onMouseEnter={function onMouseEnter}
+>                             onTouchStart={function onTouchStart}
+>                             href="/"
+>                           >
+                              <NavbarLogo>
+                                <LinkComponent href="/" className="flex items..." onClick={undefined}>
+>                                 <a
+>                                   className="flex items-center cursor-pointer"
+>                                   ref={function}
+>                                   onClick={function onClick}
+>                                   onMouseEnter={function onMouseEnter}
+>                                   onTouchStart={function onTouchStart}
+>                                   href="/"
+>                                 >
+                          ...
+                    ...
+            ...
+
+[00:00:33.755] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. a <a>
+[00:00:33.755] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+[00:00:33.755] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:00:56.520] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:57.242] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <a> a 
+
+  ...
+    <SegmentViewNode type="layout" pagePath="layout.tsx">
+      <SegmentTrieNode>
+      <link>
+      <script>
+      <script>
+      <script>
+      <RootLayout>
+        <html lang="en" className="dark">
+          <head>
+          <body className="geist_a715...">
+            <CursorClickEffect>
+            <Header>
+              <Navbar>
+                <motion.div ref={{current:null}} className="sticky ins...">
+                  <div className="sticky ins..." style={{}} ref={function useMotionRef.useCallback}>
+                    <NavBody visible={false}>
+                      <motion.div animate={{...}} transition={{type:"spring", ...}} className="relative z...">
+                        <div className="relative z..." style={{}} ref={function useMotionRef.useCallback}>
+                          <LinkComponent href="/" className="z-50">
+>                           <a
+>                             className="z-50"
+>                             ref={function}
+>                             onClick={function onClick}
+>                             onMouseEnter={function onMouseEnter}
+>                             onTouchStart={function onTouchStart}
+>                             href="/"
+>                           >
+                              <NavbarLogo>
+                                <LinkComponent href="/" className="flex items..." onClick={undefined}>
+>                                 <a
+>                                   className="flex items-center cursor-pointer"
+>                                   ref={function}
+>                                   onClick={function onClick}
+>                                   onMouseEnter={function onMouseEnter}
+>                                   onTouchStart={function onTouchStart}
+>                                   href="/"
+>                                 >
+                          ...
+                    ...
+            ...
+
+[00:00:57.242] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. a <a>
+[00:00:57.242] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+[00:00:57.242] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[00:01:05.028] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:05.797] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
+This will cause a hydration error.%s <a> a 
+
+  ...
+    <SegmentViewNode type="layout" pagePath="layout.tsx">
+      <SegmentTrieNode>
+      <link>
+      <script>
+      <script>
+      <script>
+      <RootLayout>
+        <html lang="en" className="dark">
+          <head>
+          <body className="geist_a715...">
+            <CursorClickEffect>
+            <Header>
+              <Navbar>
+                <motion.div ref={{current:null}} className="sticky ins...">
+                  <div className="sticky ins..." style={{}} ref={function useMotionRef.useCallback}>
+                    <NavBody visible={false}>
+                      <motion.div animate={{...}} transition={{type:"spring", ...}} className="relative z...">
+                        <div className="relative z..." style={{}} ref={function useMotionRef.useCallback}>
+                          <LinkComponent href="/" className="z-50">
+>                           <a
+>                             className="z-50"
+>                             ref={function}
+>                             onClick={function onClick}
+>                             onMouseEnter={function onMouseEnter}
+>                             onTouchStart={function onTouchStart}
+>                             href="/"
+>                           >
+                              <NavbarLogo>
+                                <LinkComponent href="/" className="flex items..." onClick={undefined}>
+>                                 <a
+>                                   className="flex items-center cursor-pointer"
+>                                   ref={function}
+>                                   onClick={function onClick}
+>                                   onMouseEnter={function onMouseEnter}
+>                                   onTouchStart={function onTouchStart}
+>                                   href="/"
+>                                 >
+                          ...
+                    ...
+            ...
+
+[00:01:05.797] Browser ERROR   <%s> cannot contain a nested %s.
+See this log for the ancestor stack trace. a <a>
+[00:01:05.797] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+[00:01:05.797] Browser WARN    Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
